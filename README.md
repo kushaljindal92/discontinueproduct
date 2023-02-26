@@ -3,7 +3,7 @@ Magento 2 extension for discontinued products which keeps seo on high
 Basic features
 
 1. This extension will create attribute discontinue and will assign to all attribute sets.
-2. By default 0 or no valuse is assigned for new products.
+2. By default 0 or no value is assigned for new products.
 3. If we need to discontinue any product we can go to that product and enable it.
 4. Product will be removed from listing and search but can be accessible directly from url so seo would not be effected.
 
